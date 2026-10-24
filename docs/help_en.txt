@@ -1,0 +1,13 @@
+VEIN Trainer
+Open the VEIN Trainer shortcut. Enter a local single-player world and close inventory, menus, chat and console, then click Start. Playing × means the trainer is active; click again to stop and restore continuous physics options.
+Spawn items opens the separate catalog. Choose a category, search, select an item, set quantity and add. The 1,362 item names follow the game's Chinese catalog; locations use original English names outside the Chinese interface.
+Switches start OFF. OFF shows Enable; ON shows Disable. Rising sound means enabled; descending sound means disabled. One-shot actions have a single send tone, errors a low tone.
+Click Set hotkey beside an option, press F1–F12 or Ctrl/Alt plus a letter or number, then Save. Bindings are saved locally and work while VEIN or this trainer is focused and the trainer is Playing. Continuous options toggle; repair/heal/teleport execute once per press.
+Hold a damaged tool or weapon to repair it. The trainer verifies the same item's durability before and after repair. A repair from about 92.8% to 100% was tested in game.
+Infinite stamina clears exertion only. Hunger, thirst and sleep continue normally. Speed, gravity and jump settings restore their previous values when stopped. Exit normally; forced termination may prevent restoration.
+Language and light/dark theme are saved automatically. Changing either preserves active options and hotkeys. It does not change the game's language.
+Target-dependent actions require aiming at the target. Giving all items, corpse removal, recipes, XP, time and teleport affect the current world; use a test save and your own backups.
+Backups exclude start.vns, create verified copies under backups, and never overwrite or restore source saves. Return to the main menu before backing up.
+This build supports the verified local VEIN installation and single-player version only. Version mismatch disables editing. Repair, live condition readback, physics restoration and Windows hotkey registration/message handling have been checked; not every game effect or sustained stamina use has been tested in game.
+
+All non-item actions use the included native connection module on the game thread without opening the console or simulating keystrokes. Item spawning keeps its console sender. Direct healing and held-item repair were tested; other world effects were not all triggered. No game files or saves are rewritten by the bridge.

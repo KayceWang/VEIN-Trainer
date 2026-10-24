@@ -1,0 +1,13 @@
+VEIN Trainer
+Ouvrez le raccourci. Entrez dans un monde solo local, fermez inventaire, menus, discussion et console, puis cliquez sur Démarrer. En cours × indique que le programme est actif ; cliquez à nouveau pour arrêter et rétablir les options physiques.
+Créer des objets ouvre le catalogue séparé. Choisissez une catégorie, cherchez, sélectionnez et réglez la quantité. Les 1 362 noms suivent le catalogue chinois du jeu ; les lieux gardent leurs noms anglais originaux hors de l’interface chinoise.
+Les interrupteurs sont INACTIFS au démarrage et proposent Activer. Une fois actifs, ils proposent Désactiver. Son ascendant : activé ; descendant : désactivé ; son unique : action envoyée ; son grave : erreur.
+Cliquez sur Raccourci, appuyez sur F1–F12 ou Ctrl/Alt avec une lettre ou un chiffre, puis enregistrez. Les raccourcis fonctionnent dans VEIN ou dans ce programme lorsque le programme est actif. Les fonctions continues basculent ; soin, réparation et téléportation s’exécutent une fois.
+Tenez un outil ou une arme endommagée pour la réparer. La durabilité du même objet est vérifiée avant et après ; une réparation d’environ 92,8 % à 100 % a été testée dans le jeu.
+L’endurance infinie efface uniquement l’épuisement. Faim, soif et sommeil évoluent normalement. Vitesse, gravité et saut retrouvent leurs valeurs précédentes à l’arrêt. Quittez normalement ; un arrêt forcé peut empêcher la restauration.
+La langue et le thème clair/sombre sont mémorisés sans modifier la langue du jeu. Les changer conserve les fonctions actives et les raccourcis.
+Visez la cible pour les véhicules et serrures. Objets, cadavres, recettes, expérience, temps et téléportation modifient le monde actuel ; utilisez une sauvegarde de test et vos propres copies.
+Les copies excluent start.vns, sont vérifiées dans backups et n’écrasent ni ne restaurent les originaux. Revenez au menu principal avant la copie.
+Seules l’installation locale et la version solo vérifiées sont prises en charge. Une version différente bloque les modifications. Réparation, relecture des états, restauration physique et réception des raccourcis Windows ont été vérifiées ; tous les effets et l’endurance prolongée n’ont pas été testés dans le jeu.
+
+Les actions autres que la création d’objets utilisent le module natif fourni dans le thread du jeu, sans ouvrir la console ni simuler de touches. La création d’objets conserve l’envoi par console. Le soin et la réparation directe ont été testés ; tous les effets du monde n’ont pas été déclenchés. Le module ne réécrit aucun fichier du jeu ni sauvegarde.

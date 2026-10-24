@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.pdb
+*.lib
+.venv/
+venv/
+backups/
+*.vns
+快捷键设置.json
+界面设置.json
+文件校验.json
+dist/

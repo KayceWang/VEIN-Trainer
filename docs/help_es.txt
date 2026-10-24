@@ -1,0 +1,13 @@
+VEIN Trainer
+Abre el acceso directo. Entra en una partida local individual, cierra inventario, menús, chat y consola y pulsa Iniciar. En ejecución × indica que está activo; pulsa de nuevo para detener y restaurar las opciones físicas.
+Crear objetos abre el catálogo separado. Elige categoría, busca, selecciona y ajusta la cantidad. Los 1.362 nombres siguen el catálogo chino del juego; los lugares usan nombres originales en inglés fuera de la interfaz china.
+Los interruptores comienzan INACTIVOS y muestran Activar. Al activarlos muestran Desactivar. Sonido ascendente: activado; descendente: desactivado; tono único: acción enviada; tono grave: error.
+Pulsa Atajo, introduce F1–F12 o Ctrl/Alt más letra o número y guarda. Los atajos solo funcionan con VEIN o este programa en primer plano y el programa activo. Las opciones continuas alternan; curar, reparar y teletransportar se ejecutan una vez.
+Sostén una herramienta o arma dañada para repararla. Se verifica la durabilidad antes y después; se comprobó una reparación aproximada del 92,8% al 100% dentro del juego.
+Resistencia infinita solo elimina el agotamiento. Hambre, sed y sueño siguen normales. Velocidad, gravedad y salto restauran sus valores anteriores al detenerse. Cierra normalmente; forzar el cierre puede impedir la restauración.
+Idioma y modo claro/oscuro se guardan automáticamente y no cambian el idioma del juego. Cambiarlos no reinicia las opciones ni los atajos.
+Apunta al objetivo para acciones sobre vehículos y cerraduras. Objetos, cadáveres, recetas, experiencia, tiempo y teletransporte alteran el mundo actual; utiliza una partida de prueba y copias propias.
+Las copias excluyen start.vns, se verifican en backups y nunca sobrescriben ni restauran las partidas originales. Vuelve al menú principal antes de copiar.
+Solo se admite la instalación y versión local individual verificada. Los cambios se bloquean si la versión difiere. Reparación, lectura de estados, restauración física y mensajes de atajos de Windows se han comprobado; no se han probado todos los efectos ni el uso prolongado de resistencia dentro del juego.
+
+Las acciones distintas de crear objetos usan el módulo de conexión nativo incluido en el hilo del juego, sin abrir la consola ni simular teclas. Crear objetos conserva el envío por consola. Se probaron curación y reparación directa del objeto en mano; no se activaron todos los efectos del mundo. El módulo no reescribe archivos ni partidas.
