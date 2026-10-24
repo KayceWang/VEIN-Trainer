@@ -25,6 +25,7 @@ py -3.11 vein_helper.py
 ```
 
 ## 功能
+<img width="1361" height="1066" alt="image" src="https://github.com/user-attachments/assets/c56db5a7-8dc7-4146-8f87-6cf95dc92c26" />
 
 | 分组 | 内容 |
 | --- | --- |
